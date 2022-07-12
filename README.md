@@ -1,2 +1,0 @@
-# YeothriftMVP
-Prototype
